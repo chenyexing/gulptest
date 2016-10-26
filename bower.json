@@ -1,0 +1,19 @@
+{
+  "name": "webtest",
+  "version": "0.1.0",
+  "authors": [
+    "yexing"
+  ],
+  "description": "前端测试项目",
+  "main": "./app/index.html",
+  "moduleType": [
+    "globals"
+  ],
+  "license": "MIT",
+  "private": true,
+  "homepage": "",
+  "dependencies": {
+    "angular": "angularjs#^1.5.8",
+    "bootstrap": "^3.3.7"
+  }
+}
